@@ -39,6 +39,6 @@ La actividad ha sido realizada de manera individual por **Ander Lopetegui Arregu
 
 
 ## Recursos
-Subirats, L., Calvo, M. (2019). Web Scraping. Editorial UOC.
-Masip, D. (2010). El lenguaje Python. Editorial UOC.
-Tutorial de Github https://guides.github.com/activities/hello-world.
+- Subirats, L., Calvo, M. (2019). Web Scraping. Editorial UOC.
+- Masip, D. (2010). El lenguaje Python. Editorial UOC.
+- Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
